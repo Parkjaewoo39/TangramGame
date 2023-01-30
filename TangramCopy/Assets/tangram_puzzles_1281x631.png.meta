@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: 6314d14cbb5e9a3429d497966de23d4a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a291c350f57e6f64b9cb70b6edd7b2ec
+      internalID: 1401564548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265e5afc5386f24bac78d8fb720fd3d
+      internalID: 771629754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bb0c17e4459aa4f8dfd012521e1f33
+      internalID: -1891446038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 525
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f99cbc0c39e644ac1791f491011e3
+      internalID: 937690999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d30daf1ddb9ef04c8bafcfd81a4ae50
+      internalID: -2095999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 525
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00fb43bb7d50a46b34fba22aacc847
+      internalID: 1119940030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 524
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c0fe678f3f3f043a0cf7057cceb25b
+      internalID: -1826169233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 524
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c276cbcbf55b093498036d06f6756f26
+      internalID: 554456025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 524
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f15acbf6113f64f97759ac7e2900c0
+      internalID: 1337716765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2169477f3d51446902feaf3fa50ebc
+      internalID: -755632150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_10
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13d0325ea03174bbc5042e1840b03b
+      internalID: 1177248327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 524
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0ad1360060dd49ae2ea8b3853073b
+      internalID: 632707355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd069e5d9046cd342b219a391efb0518
+      internalID: 1842250966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088d2ed5c3de7c4492310044916b5f6
+      internalID: 1212715270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a431a9472f3b46a0874bd134c179e
+      internalID: 1983045887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291319e3f5d09764181ccaff901fce2b
+      internalID: -2123867911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57d7e574d1d714281d8358ac88cb23
+      internalID: 1442319896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 420
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944542380e8359649903ef30b8f04b25
+      internalID: 2098172579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_18
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9eb817b1fb4b14a99a8d91de68c10a
+      internalID: -1021500964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0808599f28104194943639fa1f5cf
+      internalID: -1664533631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6330bb76f89c6748982d229b673946a
+      internalID: 1711857081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681e6e6ff2870d49a4bd405f8079b7d
+      internalID: 1602272172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_22
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569570440b5d63489a32f070273bf2c
+      internalID: -712361756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78d05907ec70349b06640db0485f0d
+      internalID: -182989319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4051426d6507904c9e4b69dd9ac3fc5
+      internalID: 292933653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3ce78bea951145b0b03444759744a
+      internalID: 610354732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dacde0f718b8a4987fcb49ea0c4df9
+      internalID: 1242270787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b3196d116c1f14f83d6f2978dd7ff4
+      internalID: -1067506669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89393a1fd045b7e4eb56331a4fe70535
+      internalID: 1767329975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 316
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1344e4a1b72c34ba34d7747af81815
+      internalID: -487342619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_30
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a0a902a8654d4a9f578ba92829ef6
+      internalID: -1411675045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_31
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 315
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593518578f749614ca9e37d2d318c672
+      internalID: -1844192232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4750544d4680426408f197dbe778c76f
+      internalID: 278376062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223299a7c2adf74d983d1a335039363
+      internalID: -1872325101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_34
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec6b52ba10f47e4d90ffe1ad979dbbb
+      internalID: 1798161545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_35
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1a75277df5854da329a1a84ff6635
+      internalID: -1426992509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa66d93371cf3b04da01e847c2b2213a
+      internalID: -1334285799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92adbf3420afeb4288fdbb439748a45
+      internalID: 2016684396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109dfe14b430454fb9f948acd02428c
+      internalID: -834915232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef338c640d1774b91a5ff56f8adb5c
+      internalID: -1552567831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a1040bd7dbae64cab3115793353113
+      internalID: 859679546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_41
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5757be2b600df441bcb935f82b2de80
+      internalID: -1589337737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_42
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 211
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b421d8d93dfab34cb547195b2f8f51b
+      internalID: -339469168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_43
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 211
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e99b95f98fcc4eaadf23cb51b939f
+      internalID: -1185676657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f73e881a8e1d44bb2acc8bff89288d
+      internalID: -2033237033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b336c990ba680041947ad604cf09519
+      internalID: -1435048363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_46
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 211
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae040e6fe41e7cf47895193b4270e13e
+      internalID: 1236753499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_47
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c9ad77ac5761f4785a08e2d4dd805a
+      internalID: 945584077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b87a558547954b867d16ba28b831f
+      internalID: 1799462171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 104
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ac4a5c97b08b4e888141056aa3ce0
+      internalID: -1184996684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb433604dd496c48a3c10520682c160
+      internalID: 1743365041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9228aafaed4924a915597b55ae5db4
+      internalID: -1336911046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 107
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f51e324f895c41a67e39c9a4d4a39
+      internalID: -1084184120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 107
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115a08331d4d1e498b91e05528b770a
+      internalID: 2097215901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_54
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 106
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70625395497930b48865d1cddc99fb5f
+      internalID: 1915779522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_55
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 106
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577385462527ef2449ff4b15ad524eb6
+      internalID: -1015439379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 106
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbc4930b2a2d443b959c2fa4a5a256
+      internalID: 841431952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_57
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 106
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8830aa5d42ec48bee79b99fb89755
+      internalID: -2083754415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_58
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 106
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f23c3de44207429949e919f8be71e
+      internalID: -1833552612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_59
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f01b39c5cb1fa479f75afea9b2ee9c
+      internalID: -706540798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f95f620c446f864680afc5b26935c6a
+      internalID: -1812084960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a65f75c00d9d429900c8b3ab5addd
+      internalID: -2116008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d5c7f91ac9534da34adc5df620b98
+      internalID: 1660732258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_63
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574244ea7660e44f81d59fa6eeb5ca0
+      internalID: -1033435192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_64
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545239f02e5464140a36414879b0d23a
+      internalID: 26954604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_65
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66894c3ae88bbee4d915b6b59607f072
+      internalID: 7932016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_66
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deecfbb6b8481814bb13f080c6e1abbe
+      internalID: -1129129791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangram_puzzles_1281x631_67
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aafe5a04869774dbe3edfe34c00522
+      internalID: -786272631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tangram_puzzles_1281x631_31: -1844192232
+      tangram_puzzles_1281x631_45: -1435048363
+      tangram_puzzles_1281x631_3: 937690999
+      tangram_puzzles_1281x631_58: -1833552612
+      tangram_puzzles_1281x631_5: 1119940030
+      tangram_puzzles_1281x631_9: -755632150
+      tangram_puzzles_1281x631_19: -1664533631
+      tangram_puzzles_1281x631_64: 26954604
+      tangram_puzzles_1281x631_18: -1021500964
+      tangram_puzzles_1281x631_14: 1983045887
+      tangram_puzzles_1281x631_38: -834915232
+      tangram_puzzles_1281x631_26: 1242270787
+      tangram_puzzles_1281x631_25: 610354732
+      tangram_puzzles_1281x631_62: 1660732258
+      tangram_puzzles_1281x631_21: 1602272172
+      tangram_puzzles_1281x631_2: -1891446038
+      tangram_puzzles_1281x631_41: -1589337737
+      tangram_puzzles_1281x631_63: -1033435192
+      tangram_puzzles_1281x631_47: 945584077
+      tangram_puzzles_1281x631_44: -2033237033
+      tangram_puzzles_1281x631_28: 1767329975
+      tangram_puzzles_1281x631_27: -1067506669
+      tangram_puzzles_1281x631_6: -1826169233
+      tangram_puzzles_1281x631_17: 2098172579
+      tangram_puzzles_1281x631_40: 859679546
+      tangram_puzzles_1281x631_43: -1185676657
+      tangram_puzzles_1281x631_53: 2097215901
+      tangram_puzzles_1281x631_12: 1842250966
+      tangram_puzzles_1281x631_48: 1799462171
+      tangram_puzzles_1281x631_15: -2123867911
+      tangram_puzzles_1281x631_11: 632707355
+      tangram_puzzles_1281x631_37: 2016684396
+      tangram_puzzles_1281x631_52: -1084184120
+      tangram_puzzles_1281x631_32: 278376062
+      tangram_puzzles_1281x631_61: -2116008246
+      tangram_puzzles_1281x631_65: 7932016
+      tangram_puzzles_1281x631_50: 1743365041
+      tangram_puzzles_1281x631_0: 1401564548
+      tangram_puzzles_1281x631_4: -2095999108
+      tangram_puzzles_1281x631_1: 771629754
+      tangram_puzzles_1281x631_10: 1177248327
+      tangram_puzzles_1281x631_13: 1212715270
+      tangram_puzzles_1281x631_66: -1129129791
+      tangram_puzzles_1281x631_42: -339469168
+      tangram_puzzles_1281x631_35: -1426992509
+      tangram_puzzles_1281x631_7: 554456025
+      tangram_puzzles_1281x631_30: -1411675045
+      tangram_puzzles_1281x631_67: -786272631
+      tangram_puzzles_1281x631_24: 292933653
+      tangram_puzzles_1281x631_39: -1552567831
+      tangram_puzzles_1281x631_49: -1184996684
+      tangram_puzzles_1281x631_46: 1236753499
+      tangram_puzzles_1281x631_34: 1798161545
+      tangram_puzzles_1281x631_36: -1334285799
+      tangram_puzzles_1281x631_59: -706540798
+      tangram_puzzles_1281x631_51: -1336911046
+      tangram_puzzles_1281x631_23: -182989319
+      tangram_puzzles_1281x631_20: 1711857081
+      tangram_puzzles_1281x631_54: 1915779522
+      tangram_puzzles_1281x631_33: -1872325101
+      tangram_puzzles_1281x631_29: -487342619
+      tangram_puzzles_1281x631_22: -712361756
+      tangram_puzzles_1281x631_57: -2083754415
+      tangram_puzzles_1281x631_60: -1812084960
+      tangram_puzzles_1281x631_16: 1442319896
+      tangram_puzzles_1281x631_8: 1337716765
+      tangram_puzzles_1281x631_55: -1015439379
+      tangram_puzzles_1281x631_56: 841431952
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
