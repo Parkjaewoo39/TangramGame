@@ -31,13 +31,18 @@ SpriteAtlas:
       enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
-    packables: []
+    packables:
+    - {fileID: 102900000, guid: 0b57edaf678fb334fa0241fb13c1809e, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e302c555407c6074793a0148fb54421c, type: 2}
+  - {fileID: 21300000, guid: 83197465bb9af304881b46a68baad807, type: 2}
+  m_PackedSpriteNamesToIndex:
+  - Btn_Long_Green
+  - Btn_Long_Green_Press
   m_RenderDataMap: {}
   m_Tag: All_Images
   m_IsVariant: 0
