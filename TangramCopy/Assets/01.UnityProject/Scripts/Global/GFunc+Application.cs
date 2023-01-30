@@ -24,7 +24,7 @@ public static partial class GFunc
     //!다른 씬 로드하는 함수
     public static void LoadScene(string sceneName) 
     {
-        SceneManager.LoadScene("PlayScence");
+        SceneManager.LoadScene("02.PlayScene");
     }   //LoadScene
 
 
