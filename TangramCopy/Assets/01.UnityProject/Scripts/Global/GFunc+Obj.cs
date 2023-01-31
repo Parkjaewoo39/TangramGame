@@ -6,8 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public static partial class GFunc
-{
-    //! Ư�� ������Ʈ�� �ڽ� ������Ʈ�� ��ġ�ؼ� ã���ִ� �Լ�
+{    
     public static GameObject FindChildObj(
         this GameObject targetObj_, string objName_) 
     {
@@ -31,7 +30,7 @@ public static partial class GFunc
             else { return searchResult; }
             
         }
-        return searchResult;    //�� ��ȯ
+        return searchResult;    
     }//FindChildObj()
 
     // {LEGACY
@@ -66,7 +65,7 @@ public static partial class GFunc
     {
         Scene activeScene_ = GetActiveScene();
         GameObject[] rootObjs_ = activeScene_.GetRootGameObjects();
-        //�� ���� ���̾��Ű�� �ִ� ��� ������Ʈ�� �����´�.
+       
 
         GameObject targetObj_ = default;
         foreach (GameObject rootObj in rootObjs_) 
@@ -87,6 +86,24 @@ public static partial class GFunc
         return obj_.GetComponent<RectTransform>().sizeDelta;
     }
 
+    public static RectTransform GetRect(this GameObject obj_) 
+    {
+        return obj_.GetComponent<RectTransform>();
+    }   //GetRect()
+
+    //! 오브젝트의 앵커 포지션을 연산하는 함수
+    public static void AddAnchoredPos(this GameObject obj_,float x, float y) 
+    {
+        obj_.GetRect().anchoredPosition += new Vector2(x, y);
+    }   //AddAnchoredPos()
+
+    //! 오브젝트의 앵커 포지션을 연산하는 함수
+    public static void AddAnchoredPos(this GameObject obj_, Vector2 position2D)
+    {
+        obj_.GetRect().anchoredPosition += position2D;
+    }   //AddAnchoredPos()
+
+   
     //! 
     public static Scene GetActiveScene() 
     {
@@ -127,6 +144,8 @@ public static partial class GFunc
        // GFunc.Log($"{component_.GetType().Name} is found");
         return component_;
     }
+
+
 
     //public static AudioSource GetAudioSourceMust(this GameObject obj)
     //{
