@@ -20,6 +20,7 @@ issue.
 		ScaleFactor 값을 고려해서 연산하는 것이 오차가 적을 것으로 추정된다.     
 
 2023-01-31 / v0.2.1 / Add Drag
+2023-01-31 / v0.2.2 / Tangram Finish
   
 
 

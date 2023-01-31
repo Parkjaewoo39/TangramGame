@@ -145,12 +145,19 @@ public static partial class GFunc
         return component_;
     }
 
+    //!새로운 오브젝트를 만들어서 컴포넌트를 리턴하는 함수
+    public static T Create<T>(string objName) where T : Component
+    {
+        GameObject newObj = new GameObject(objName);
+        return newObj.AddComponent<T>();
+    }   //Create<T>
 
 
+    #region
     //public static AudioSource GetAudioSourceMust(this GameObject obj)
     //{
     //    AudioSource component_ = obj.GetComponent<AudioSource>();
-       
+
 
     //    GFunc.Assert(component_ != null || component_ != default,
     //        string.Format("{0}에서 {1}을(를) 찾을 수 없습니다.",
@@ -160,4 +167,5 @@ public static partial class GFunc
     //    GFunc.Log($"{component_.GetType().Name} is found");
     //    return component_;
     //}
+    #endregion
 }
